@@ -2,9 +2,12 @@ div {
     font-family: 'Roboto';
 }
 
+html, body {
+    height: 100%;
+}
+
 .header {
     background-color: #1F2937;
-    
 }
 
 .section {
@@ -102,6 +105,12 @@ button, #third {
     flex: 1;
     color: white;
     background-color: grey;
+    font-size: large;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    max-width: 600px;
+    margin: 70px;
 }
 
