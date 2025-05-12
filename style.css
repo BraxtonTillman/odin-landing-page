@@ -1,0 +1,107 @@
+div {
+    font-family: 'Roboto';
+}
+
+.header {
+    background-color: #1F2937;
+    
+}
+
+.section {
+    
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.item {
+    display: flex;
+}
+
+button, #third {
+    background-color: #3882F6;
+}
+
+.image {
+
+}
+
+#header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.item-link-text, #hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+#hero-main-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+#first {
+
+}
+
+#second {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+#info-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+#header-container {
+    display: flex;
+    padding: 38px;
+    padding-left: 80px;
+    align-items: center;
+}
+
+.right-group {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 40px;
+    padding: 38px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container#hero {
+    height: 100%;
+    display: flex;
+}
+
+.hero-left-group {
+    flex-direction: column;
+    display: flex;
+    padding: 50px;
+    align-items: start;
+    gap: 10px;
+}
+
+
+.container#image-placeholder {
+    flex: 1;
+    color: white;
+    background-color: grey;
+    display: flex;
+}
+
