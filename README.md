@@ -20,7 +20,6 @@ This project demonstrates the fundamentals of HTML and CSS, including:
 
 ```
 odin-landing-page/
-├── images/             # All image assets
 ├── styles.css          # Main stylesheet
 ├── index.html          # Landing page HTML
 └── README.md           # Project documentation
